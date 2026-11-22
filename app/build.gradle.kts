@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "in.rapidjobs.app"
+    namespace = "com.rapidjobs.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "in.rapidjobs.app"
+        applicationId = "com.rapidjobs.app"
         minSdk = 23
         targetSdk = 35
         versionCode = 1
