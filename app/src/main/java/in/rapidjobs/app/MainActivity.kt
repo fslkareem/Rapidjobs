@@ -1,4 +1,4 @@
-package in.rapidjobs.app
+package com.rapidjobs.app
 
 import android.app.Activity
 import android.content.ActivityNotFoundException
